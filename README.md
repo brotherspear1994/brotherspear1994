@@ -1,4 +1,3 @@
-# brotherspear1994.github.io
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brotherspear1994)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 자기소개(Introduction)
