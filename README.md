@@ -1,6 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brotherspear1994)](https://github.com/anuraghazra/github-readme-stats)
+# Hyung Chang Lee(brotherspear1994)'s profile
 
-## 자기소개(Introduction)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brotherspear1994)](https://github.com/anuraghazra/github-readme-stats)
 
 - 이름(name): `이형창(Hyung Chang Lee)`
 - 출생년도(Birth): `1994년생(1994)`
